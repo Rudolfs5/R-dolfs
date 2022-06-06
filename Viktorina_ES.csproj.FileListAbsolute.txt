@@ -1,0 +1,11 @@
+C:\Users\Rudolfs\Documents\Viktorina_ES\bin\Debug\Viktorina_ES.exe.config
+C:\Users\Rudolfs\Documents\Viktorina_ES\bin\Debug\Viktorina_ES.exe
+C:\Users\Rudolfs\Documents\Viktorina_ES\bin\Debug\Viktorina_ES.pdb
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.csproj.AssemblyReference.cache
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.Form1.resources
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.Properties.Resources.resources
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.csproj.GenerateResource.cache
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.csproj.CoreCompileInputs.cache
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.exe
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.pdb
+C:\Users\Rudolfs\Documents\Viktorina_ES\obj\Debug\Viktorina_ES.Form2.resources
